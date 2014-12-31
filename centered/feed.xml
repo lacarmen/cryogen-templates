@@ -15,7 +15,7 @@ http://blogawesome.com/
 This blog is awesome
 </description>
 <lastBuildDate>
-Wed, 31 Dec 2014 17:07:20 -0500
+Wed, 31 Dec 2014 17:42:05 -0500
 </lastBuildDate>
 <author>
 Bob Bobbert
@@ -101,6 +101,26 @@ vestibulum tortor est nec nisi.
 </description>
 <pubDate>
 Thu, 13 Nov 2014 00:00:00 -0500
+</pubDate>
+<author>
+Bob Bobbert
+</author>
+</item>
+<item>
+<guid>
+http://blogawesome.com/cryogen-templates/centered/posts/10-10-2014-lorem-ipsum.html
+</guid>
+<link>
+http://blogawesome.com/cryogen-templates/centered/posts/10-10-2014-lorem-ipsum.html
+</link>
+<title>
+Lorem Ipsum
+</title>
+<description>
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean congue libero vel quam imperdiet, ut luctus velit tristique. Aliquam vitae hendrerit ex. Aenean pulvinar magna quis vulputate accumsan. Morbi dictum, urna quis consectetur gravida, nulla dolor commodo nulla, at mattis libero tortor at purus. Etiam hendrerit nisl odio, in bibendum erat tincidunt nec. Nunc convallis luctus justo, nec efficitur urna tempus vitae. Cras convallis dolor et justo sollicitudin, eu viverra mauris cursus. Nam maximus sodales lacus a posuere. Curabitur convallis ligula vitae rutrum ultricies. Suspendisse potenti.&lt;/p&gt;&lt;p&gt;Integer eu orci ornare mauris suscipit aliquet et sed tortor. Mauris vel arcu at ex viverra pretium non ac metus. Aliquam facilisis sed arcu in fermentum. Pellentesque velit felis, suscipit ac nisl at, viverra lacinia leo. Cras ultricies nisl eget ullamcorper convallis. Donec a diam efficitur, pharetra ligula id, efficitur nisl. Quisque fermentum, orci non vehicula accumsan, mauris nisl ornare nisl, non malesuada erat sapien in libero. Morbi nec nisi vitae erat ullamcorper blandit sed nec erat.&lt;/p&gt;&lt;p&gt;Phasellus tempus fringilla justo, ac efficitur nisl elementum ac. Suspendisse pulvinar luctus magna, sit amet auctor nunc luctus quis. Cras tristique justo non sapien bibendum consectetur. Donec porttitor purus non faucibus congue. Curabitur sollicitudin lacus vitae aliquet tincidunt. Nullam vulputate leo quis tellus hendrerit, sed lobortis sem imperdiet. Mauris eget tempus lorem. Praesent non magna ac ipsum laoreet tincidunt. Curabitur metus metus, egestas sodales lorem vel, fermentum mollis lacus. Sed euismod, nulla ac sagittis consequat, ante dolor porttitor ipsum, vel dictum urna urna vel nisl. Ut sed urna aliquam, interdum arcu ac, euismod mauris. Proin sed elit sed nisi dictum suscipit sed in lectus.&lt;/p&gt;&lt;p&gt;Nunc justo arcu, vestibulum in placerat vel, tincidunt eget metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque volutpat, odio id aliquet maximus, ex quam lacinia nulla, tristique molestie justo enim sit amet quam. Fusce nec laoreet elit, ornare pharetra ex. Curabitur ac congue odio, ac lacinia risus. Morbi quis posuere sapien. Sed lobortis congue congue. In pellentesque sed nisi nec aliquam. Integer pellentesque fermentum sollicitudin.&lt;/p&gt;&lt;p&gt;Aliquam ultricies sit amet justo a interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur luctus turpis a venenatis rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean maximus non turpis consequat elementum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce posuere, nisi quis malesuada scelerisque, massa ligula laoreet neque, non sollicitudin sapien quam eu sem. Sed est magna, blandit tincidunt eleifend vel, sagittis sit amet enim. Aliquam ac augue libero. Fusce at feugiat augue. Integer eu augue at ex molestie eleifend. Ut accumsan quam a odio auctor, at laoreet quam rutrum. Suspendisse dictum diam ullamcorper nibh faucibus, at bibendum ipsum faucibus. In lorem odio, laoreet in sollicitudin et, placerat ac risus.&lt;/p&gt;
+</description>
+<pubDate>
+Fri, 10 Oct 2014 00:00:00 -0400
 </pubDate>
 <author>
 Bob Bobbert

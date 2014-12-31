@@ -20,6 +20,7 @@ body {
 
 .navbar {
     border-radius: 0;
+    box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.4);
 }
 
 .navbar-default {
@@ -78,10 +79,6 @@ body {
 .navbar-default .navbar-nav>li>a:focus {
     background-color: #3d80ba;
     color: #fff;
-}
-
-#sidebar {
-    margin-left: 25px;
 }
 
 #content {
